@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "7ecc576afc7f4ee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f15216ac21b992f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e40008de0f951a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d79aef8b9d9609bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b23b42e7125009c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4dc1df688963b3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db1065bd8fa159bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11a9d1b082ebdf4d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbfc4954f87f5709",
+    "type": "split",
+    "children": [
+      {
+        "id": "f80343baf0990f27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bb4af86ebac5093",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "160978b6ef6d317e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1347abece4c28d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e038a41e408700d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e40008de0f951a3",
+  "lastOpenFiles": [
+    "security/README.md",
+    "dsa/README.md",
+    "git/README.md",
+    "hacking/README.md",
+    "cooking/README.md"
+  ]
+}
