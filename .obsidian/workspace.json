@@ -11,8 +11,12 @@
             "id": "2e40008de0f951a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "flutter/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "flutter/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "flutter/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "flutter/README.md"
+              }
             }
           }
         ]
@@ -140,10 +148,10 @@
   },
   "active": "2e40008de0f951a3",
   "lastOpenFiles": [
+    "hacking/README.md",
     "security/README.md",
     "dsa/README.md",
     "git/README.md",
-    "hacking/README.md",
     "cooking/README.md"
   ]
 }
